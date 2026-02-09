@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\aula10\\Aula10.csproj": {}
+    "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\Aula12\\Aula12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\aula10\\Aula10.csproj": {
+    "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\Aula12\\Aula12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\aula10\\Aula10.csproj",
-        "projectName": "Aula10",
-        "projectPath": "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\aula10\\Aula10.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\Aula12\\Aula12.csproj",
+        "projectName": "Aula12",
+        "projectPath": "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\Aula12\\Aula12.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\aula10\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Downloads\\curso-c-sharp\\Aula12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
