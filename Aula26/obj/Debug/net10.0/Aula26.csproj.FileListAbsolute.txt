@@ -1,0 +1,15 @@
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\bin\Debug\net10.0\Aula26.exe
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\bin\Debug\net10.0\Aula26.deps.json
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\bin\Debug\net10.0\Aula26.runtimeconfig.json
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\bin\Debug\net10.0\Aula26.dll
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\bin\Debug\net10.0\Aula26.pdb
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.AssemblyInfo.cs
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.sourcelink.json
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.dll
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\refint\Aula26.dll
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.pdb
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\Aula26.genruntimeconfig.cache
+C:\Users\pedro\Downloads\curso-c-sharp\aula26\obj\Debug\net10.0\ref\Aula26.dll
